@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Turismo</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="consulta_nuestras_ofertas_de_turismo">Consulta nuestras ofertas de turismo</string>
+    <string name="trekking">Trecking</string>
+    <string name="canopy">Canopy</string>
+    <string name="saunas">Saunas</string>
+    <string name="caba_as">Cabañas</string>
+    <string name="caba_as2">Cabañas</string>
+    <string name="todo">TODO</string>
+    <string name="volver">Volver</string>
+    <string name="sauna">Sauna</string>
+    <string name="todo2">TODO</string>
+    <string name="volver2">Volver</string>
+    <string name="todo3">TODO</string>
+    <string name="volver4">Volver</string>
+    <string name="todo4">TODO</string>
+</resources>
